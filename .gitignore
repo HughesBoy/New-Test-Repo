@@ -1,0 +1,6 @@
+
+# ignore all text files
+*.txt
+
+# ignore all md files
+*.md
